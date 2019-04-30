@@ -6,7 +6,7 @@ mkdir mysql-5-7
 
 cd mysql-5-7
 
-git clone https://github.com/altmannmarcelo/mysql-vagrant.git
+git clone https://github.com/albinogil/mysql-vagrant.git
 
 vagrant up
 
